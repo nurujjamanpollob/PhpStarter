@@ -17,19 +17,18 @@ If you do not want to use command line tool. No problem, you can download the so
 Download the <b>PHP Runtime Binaries</b> from here: <a href="https://www.php.net/downloads.php">https://www.php.net/downloads.php</a>. 
 After that, create a folder named php or whatever else you like, in your preferred directory, and avoid whitespaqce in directory names, it may make conflict.
 
-Copy all binaries and folders to your preffered PATH. After that, add the directory in your <b>environment variable</b>. Then, ope your Terminal and
-
- verify your installation using this command:
+Copy all binaries and folders to your preffered PATH. After that, add the directory in your <b>environment variable</b>. Then, open your Terminal and verify your installation using this command:
  
   <pre><code> php -v </code></pre>
   
-If its output PHP version, your environment is configured successfully. The, next example is to run <b>(.)php</b> files.
+If its output PHP version, your environment is configured successfully. 
+In the next, we are going to run <b>(.)php</b> files.
 
 ## Running PHP file
 
 Open Terminal and <b>cd</b> to downloaded project directory.
 
-This command will run <a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/hello-world.php">hello-world.php</a>:
+After that, use this command to run <a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/hello-world.php">hello-world.php</a>, as example:
 
   <pre><code> php -f hello-world.php </code></pre>
   
@@ -44,6 +43,7 @@ Thanks for reading this guide.
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/echo-and-print.php">Using echo and print to output on Screen</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/defining-variables.php">Defining PHP Variables</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-variable-scope.php">Variable Scopes</a> </li>
+<li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-datatypes.php">PHP Datatypes</a> </li>
  </ul>
 
 
