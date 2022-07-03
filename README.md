@@ -23,7 +23,7 @@ Copy all binaries and folders to your preffered PATH. After that, add the direct
  
   <pre><code> php -v </code></pre>
   
-If its output PHP version, your environment is configured successfully. The, next example is to run example <b>(.)php</b> files.
+If its output PHP version, your environment is configured successfully. The, next example is to run <b>(.)php</b> files.
 
 ## Running PHP file
 
