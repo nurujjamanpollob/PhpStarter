@@ -41,7 +41,7 @@ Thanks for reading this guide.
 <ul>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/syntax.php">PHP Syntax Rules</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/hello-world.php">Print Output on Screen</a> </li>
-  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/echo-and-print.php">Using ech and print to output on Screen</a> </li>
+  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/echo-and-print.php">Using echo and print to output on Screen</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/defining-variables.php">Defining PHP Variables</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-variable-scope.php">Variable Scopes</a> </li>
  </ul>
