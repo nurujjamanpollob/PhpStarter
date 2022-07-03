@@ -132,7 +132,6 @@
      * intval()
      * floatval()
      * doubleval()
-     * strval()
      *
      * Also, type checking can be performed with these functions, to determine if a variable is a number or not.:
      * is_int()
