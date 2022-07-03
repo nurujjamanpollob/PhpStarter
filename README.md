@@ -45,6 +45,7 @@ Thanks for reading this guide.
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-variable-scope.php">Variable Scopes</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-datatypes.php">Data types</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/string-functions.php">Basic String functions</a> </li>
+  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-numbers.php">PHP Numbers and Operations</a></a> </li>
 
  </ul>
 
