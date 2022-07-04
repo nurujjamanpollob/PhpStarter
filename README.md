@@ -45,9 +45,10 @@ Thanks for reading this guide.
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-variable-scope.php">Variable Scopes</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-datatypes.php">Data types</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/string-functions.php">Basic String functions</a> </li>
-  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-numbers.php">PHP Numbers and Operations</a></a> </li>
+  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-numbers.php">Numbers and Operations</a> </li>
+  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-operators.php">Operators</a> </li>
 
  </ul>
 
 
-This repository is created on <b>03 July 2022</b> and last updated on <b>03 July 2022</b>
+This repository is created on <b>03 July 2022</b> and last updated on <b>04 July 2022</b>
