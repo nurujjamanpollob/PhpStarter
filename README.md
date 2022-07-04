@@ -47,6 +47,7 @@ Thanks for reading this guide.
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/string-functions.php">Basic String functions</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-numbers.php">Numbers and Operations</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-operators.php">Operators</a> </li>
+  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-math.php">Math Functions</a> </li>
 
  </ul>
 
