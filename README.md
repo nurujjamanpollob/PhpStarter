@@ -48,6 +48,7 @@ Thanks for reading this guide.
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-numbers.php">Numbers and Operations</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-operators.php">Operators</a> </li>
   <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-math.php">Math Functions</a> </li>
+  <li><a href="https://github.com/nurujjamanpollob/PhpStarter/blob/master/php-constants.php">Constants</a> </li>
 
  </ul>
 
